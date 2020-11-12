@@ -22,6 +22,8 @@ Software developer, with 7 years’ experience in website development and mobile
 
 A little about me:
 
-💼 I’m currently working at Brainshare Technologies NIG LTD
-🔭 I’m currently working on Bolmpay App
-💬 Ask me about anything here
+- 💼 I’m currently working at Brainshare Technologies NIG LTD
+
+- 🔭 I’m currently working on Bolmpay App
+
+- 💬 Ask me about anything here
