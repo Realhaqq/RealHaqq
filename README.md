@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 ### Hi, I'm Samiul Haqq 👋
 Web, Software and Mobile App Developer
 
-Software developer, with 7 years’ experience in website development and mobile applications. He is an experienced full-stack developer and Linux server administrator. He works with HTML/CSS, Javascript/ NodeJS, PHP, JAVA and XML, and other scripting languages like rust. Samiu is passionate about solving problems and creating new innovations.
+Software developer, with 9 years’ experience in website development and mobile applications. He is an experienced full-stack developer and Linux server administrator. He works with HTML/CSS, Javascript/ NodeJS, PHP, JAVA and XML, and other scripting languages like rust. Samiu is passionate about solving problems and creating new innovations.
 
 A little about me:
-
-- 💼 I’m currently working at Brainshare Technologies NIG LTD
 
 - 🔭 I’m currently working on Bolmpay App
 
