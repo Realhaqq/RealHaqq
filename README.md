@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Samiul Haqq 👋
 Web, Software and Mobile App Developer
 
-Software developer, with 9 years’ experience in website development and mobile applications. He is an experienced full-stack developer and Linux server administrator. He works with HTML/CSS, Javascript/ NodeJS, PHP, JAVA and XML, and other scripting languages like rust. Samiu is passionate about solving problems and creating new innovations.
+Samiu is a software developer, with 9 years’ experience in website software and mobile app development. I'm an experienced full-stack developer and Linux server administrator. I have skills in HTML/CSS, Javascript/ NodeJS, Reactjs, React-native PHP, JAVA and XML, and other scripting languages like rust. I am passionate about solving problems and creating new innovations.
 
 A little about me:
 
