@@ -22,7 +22,7 @@ Dedicated and efficient full stack developer with 9+ years’ experience in webs
 
 A little about me:
 
-- 🔭 I’m currently working on Bolmpay App
+- 🔭 I’m currently working on Bolmapay App
 
 - 💬 Ask me about anything here
 
