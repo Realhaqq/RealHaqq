@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I'm Samiul Haqq 👋
-Web, Software and Mobile App Developer
+Fullstack Engineer
 
-Dedicated and efficient full stack developer with 9+ years’ experience in website software and mobile app development. I'm an experienced full-stack developer and Linux server administrator. I have skills in Javascript, NodeJS, Reactjs, React-native PHP, JAVA and XML, and other scripting languages like rust. I am passionate about solving problems and creating new innovations.
+Dedicated and efficient full stack developer with 9+ years’ experience in website software and mobile app development. I'm an experienced full-stack developer and Linux server administrator. I have skills in Javascript, NodeJS, Reactjs, React-native PHP, JAVA, Springboot, Spring MVP and XML, and other scripting languages like rust. I am passionate about solving problems and creating new innovations.
 
 A little about me:
 
