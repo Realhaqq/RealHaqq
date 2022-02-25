@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Samiu Salihu 👋
 Full-stack Engineer
 
-Dedicated and efficient full stack developer with 10+ years of experience in website software and mobile app development. I'm an experienced full-stack developer and Linux server administrator. The Stacks I'm using currently for both mobile and web also frontend and backend includes:  Java (Android), Java(Spring boot, Spring MVP), Javascript, React.js(next.js), ReactNative(Expo and CLI), Nodejs, PHP(Core, Codeigniter) and other scripting languages. I am passionate about solving problems and creating new innovations.
+Dedicated and efficient full-stack engineer with 10+ years of experience in website software and mobile app development. I'm an experienced full-stack developer, Cloud Server engineer as well as DevOps Engineer - hands-on experience in architecting/automation and optimizing mission-critical deployments over a large infrastructure. Proficient with configuration management tools, and in developing CI/CD pipelines. I am passionate about solving problems and creating new innovations.
 
 A little about me:
 
