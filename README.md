@@ -22,7 +22,7 @@ Dedicated and efficient full-stack engineer with 10+ years of experience in webs
 
 A little about me:
 
-- 🔭 I’m currently working on Bolmapay App
+- 🔭 I’m currently working on Bolma.ng App
 
 - 💬 Ask me about anything here
 
