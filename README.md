@@ -27,4 +27,5 @@ A little about me:
 - 💬 Ask me about anything here
 
 
-[![Samiul's github stats](https://github-readme-stats.vercel.app/api?username=Realhaqq)](https://github.com/Realhaqq/github-readme-stats)
+<!-- [![Samiul's github stats](https://github-readme-stats.vercel.app/api?username=Realhaqq)](https://github.com/Realhaqq/github-readme-stats)
+ -->
