@@ -22,7 +22,7 @@ Dedicated and efficient full-stack engineer with a passion for developing innova
 
 A little about me:
 
-- 🔭 I’m currently working on https://finch.africa App
+- 🔭 I’m currently working on https://spendoware.com
 
 - 💬 Ask me about anything here
 
