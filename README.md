@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 ### Hi, I'm Samiu Salihu 👋
 Full-stack Engineer
 
-Samiu is a dedicated and efficient full-stack engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. He is well-versed in technology and writing code to create systems that are reliable and user-friendly. Samiu is a skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. He is an experienced developer, cloud server engineer, and DevOps engineer with hands-on experience in architecting/automation and optimizing mission-critical deployments over a large infrastructure. He is proficient with configuration management tools and in developing CI/CD pipelines.
+I am a dedicated and efficient full-stack engineer with a passion for developing innovative programs that enhance the efficiency and effectiveness of organizational success. I have a strong understanding of technology and possess the ability to write code to create reliable and user-friendly systems. With hands-on experience as a developer, cloud server engineer, and DevOps engineer, I have a proven track record in architecture and automation, optimizing mission-critical deployments over large infrastructures. I am proficient in using configuration management tools and have experience in developing CI/CD pipelines.
+
+
+My Skills:
+I am proficient in a variety of software tools, including HTML/CSS, JavaScript, Node.js, Java (Spring Boot), Kotlin (Ktor), Firebase, PHP, React, and React Native among others. I have the ability to accurately assess pre and post-conditions to effectively read and write code with viable inputs and outputs. I have experience in designing unit tests to evaluate the effectiveness of software programs, backend services, and user interfaces. I possess strong problem-solving skills and can develop creative, long-lasting solutions to overcome technical challenges. Additionally, I have strong communication skills and actively listen to user feedback to make informed modifications for optimal user functionality.
 
 A little about me:
 
-- 🔭 I’m currently working on https://spendoware.com
+- 🔭 I’m currently working on https://getspendo.com
 
 - 💬 Ask me about anything here
 
