@@ -18,19 +18,16 @@ Here are some ideas to get you started:
 ### Hi, I'm Samiu Salihu 👋
 a passionate and dedicated full-stack engineer with a keen interest in crafting innovative solutions to drive organizational success. I specialize in developing robust and user-friendly systems, leveraging my hands-on experience as a developer, cloud server engineer, and DevOps engineer.
 
-**🚀 Expertise:
-**
+🚀 Expertise:
 I bring a wealth of experience in architecting and automating mission-critical deployments across expansive infrastructures. Proficient in various technologies, my skill set includes HTML/CSS, JavaScript, Node.js, Java (Spring Boot), Kotlin (Ktor), Firebase, PHP, React, and React Native, among others.
 
-**💻 Technical Proficiency:
-**
+💻 Technical Proficiency:
 I excel in using configuration management tools and have a proven track record in designing and implementing CI/CD pipelines. My ability to assess pre and post-conditions ensures the creation of code with reliable inputs and outputs. I design unit tests to evaluate the effectiveness of software programs, backend services, and user interfaces.
 
 🛠️ Problem-Solving:
 Equipped with strong problem-solving skills, I thrive in overcoming technical challenges and devising creative, enduring solutions. I believe in continuous improvement and actively seek user feedback to make informed modifications for optimal user functionality.
 
-**🤝 Communication:
-**
+🤝 Communication:
 With excellent communication skills, I actively listen to user feedback, fostering an environment of collaboration. I believe that clear communication is key to successful project outcomes.
 
 A little about me:
